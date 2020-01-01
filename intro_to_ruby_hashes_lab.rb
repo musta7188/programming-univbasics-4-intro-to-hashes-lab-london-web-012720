@@ -22,8 +22,9 @@ pioneer = {
 end
 
 def id_generator
+  number = rand()
  id_generator = {
-   :id => rand()
+   :id => number
  }
 end
 
