@@ -7,7 +7,13 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+
+mine_hash = {
+  name: "Mustafa",
+  last_name: "Mohamed"
+}
+
+
 end
 
 def pioneer
