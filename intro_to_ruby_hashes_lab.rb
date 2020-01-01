@@ -1,6 +1,6 @@
 empty_hash = Hash.new
 
-def new_hash(empty_hash)
+def new_hash(empty_hash) do
 empty_hash
 end
 
