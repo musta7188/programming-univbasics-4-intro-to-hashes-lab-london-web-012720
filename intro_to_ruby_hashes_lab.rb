@@ -1,7 +1,7 @@
-empty_hash = Hash.new
+empty = Hash.new
 
-def new_hash(empty_hash) do
-empty_hash
+def new_hash(empty)
+return empty
 end
 
 def my_hash
